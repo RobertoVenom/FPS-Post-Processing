@@ -1,4 +1,0 @@
-repository "FPS@R0b2495603@cloud"
-  path "/"
-    br "/main"
-    co "/main"
